@@ -1,2 +1,2 @@
 
-# Banking-App
+# Banking web application, Frontend only.
