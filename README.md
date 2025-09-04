@@ -19,12 +19,4 @@ The app provides a clean and responsive UI for managing personal banking activit
 - **Build Tool**: [Vite](https://vitejs.dev/)  
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/banking-app.git
-cd banking-app
